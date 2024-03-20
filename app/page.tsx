@@ -6,8 +6,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.tsx</code>
+          Daftar Sekarang Juga&nbsp;
+          <code className={styles.code}>Cari Kami Di Google ketik "COBLOS4D"</code>
         </p>
       </div>
 
@@ -32,52 +32,52 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="https://docs.amplify.aws/gen2/"
+          href="https://heylink.me/.coblos4d/"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            BONUS NEW MEMBER 100% <span>-&gt;</span>
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>slot77, judi slot triofus, indoslot, jpslot, live hongkong, data hk, live draw hk tercepat,</p>
         </a>
 
         <a
-          href="https://docs.amplify.aws/gen2/start/quickstart/"
+          href="https://heylink.me/.coblos4d/"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart <span>-&gt;</span>
+            Pilihan Game Lengkap <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
+          <p>slot online, judi338, hoki188, situs deposit dana 10k, slot anti rungkat, slot pragmatic, infini88, </p>
         </a>
 
         <a
-          href="https://docs.amplify.aws/gen2/build-a-backend/auth/set-up-auth/"
+          href="https://heylink.me/.coblos4d/"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Auth <span>-&gt;</span>
+            CS ONLINE 24 JAM <span>-&gt;</span>
           </h2>
-          <p>Zero-config Auth UI components with social sign-in and MFA.</p>
+          <p>bomslot, hoki55, slot dana gratis, dana saldo gratis, slot dana tanpa potongan, keluaran sgp hari ini, </p>
         </a>
 
         <a
-          href="https://docs.amplify.aws/gen2/build-a-backend/data/set-up-data/"
+          href="https://heylink.me/.coblos4d/"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Data <span>-&gt;</span>
+            TOGEL PASTI BAYAR <span>-&gt;</span>
           </h2>
           <p>
-            Fully-typed real-time API with NoSQL database.
+            keluaran sdy hari ini, keluaran hk hari ini, prediksi togel apa besok, 
           </p>
         </a>
       </div>
