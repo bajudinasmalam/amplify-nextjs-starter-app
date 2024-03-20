@@ -20,7 +20,7 @@ export default function Home() {
           height={37}
           priority
         />
-        <span>+</span>
+        <span></br></span>
         <Image
           src="/amplify.svg"
           alt="Amplify Logo"
